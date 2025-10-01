@@ -6,12 +6,12 @@
 Uma estação meteorológica IoT baseada no **ESP32**.
 
 📊 Mede **temperatura, humidade e movimento**, apresentando os dados:
-Este projeto tem como objetivo construir uma estação meteorológica baseada no **ESP32**,
-capaz de coletar dados ambientais através de sensores digitais como o **DHT11**(sensor
-de temperatura e humidade) e como o sensor **SR501**(sensor de movimento) e
-exibi-los em tempo real através de uma interface web acessível via rede local. O
-projeto visa aplicar conhecimentos práticos de eletrônica digital, sensores,
-comunicação de dados e programação embarcada
+-Este projeto tem como objetivo construir uma estação meteorológica baseada no **ESP32**,
+-capaz de coletar dados ambientais através de sensores digitais como o **DHT11**(sensor
+-de temperatura e humidade) e como o sensor **SR501**(sensor de movimento) e
+-exibi-los em tempo real através de uma interface web acessível via rede local. O
+-projeto visa aplicar conhecimentos práticos de eletrônica digital, sensores,
+-comunicação de dados e programação embarcada
 
 ---
 
