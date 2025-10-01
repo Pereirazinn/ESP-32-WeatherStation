@@ -31,10 +31,9 @@ Uma estação meteorológica IoT baseada no **ESP32**, desenvolvida no âmbito d
 ---
 
 ## 🔌 Esquema de Ligações
-*(exemplo — substitui com a tua imagem em `/assets/circuit.png`)*
 
-![Circuito](<img width="1536" height="1024" alt="ChatGPT Image 1_10_2025, 12_05_42" src="https://github.com/user-attachments/assets/8cfb5168-e6f0-4528-9d79-f4f90dd28b31" />
-)
+![Circuito]<img width="1536" height="1024" alt="ChatGPT Image 1_10_2025, 12_05_42" src="https://github.com/user-attachments/assets/8cfb5168-e6f0-4528-9d79-f4f90dd28b31" />
+
 
 ---
 
