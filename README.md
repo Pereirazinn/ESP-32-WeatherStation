@@ -3,8 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-working-brightgreen)
 
-Uma estação meteorológica IoT baseada no **ESP32**, desenvolvida no âmbito da disciplina  
-*PII - Laboratório de Hardware para CIB (ISTEC Porto)*.
+Uma estação meteorológica IoT baseada no **ESP32**.
 
 📊 Mede **temperatura, humidade e movimento**, apresentando os dados:
 - Num **ecrã OLED** em tempo real
